@@ -1,0 +1,174 @@
+{
+  "menu": [
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-8.jpg",
+      "dish": "Pancakes with Syrup",
+      "price": "110",
+      "description": "Fluffy pancakes topped with syrup, a perfect start to your day."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-7.jpg",
+      "dish": "Avocado Toast",
+      "price": "112",
+      "description": "Crispy toast topped with creamy avocado and spices."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-6.jpg",
+      "dish": "Scrambled Eggs",
+      "price": "115",
+      "description": "Light and fluffy scrambled eggs served with toast."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-5.jpg",
+      "dish": "French Toast",
+      "price": "121",
+      "description": "Golden-brown French toast with a hint of cinnamon."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-4.jpg",
+      "dish": "Smoothie Bowl",
+      "price": "95",
+      "description": "A refreshing bowl of mixed fruit and granola."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-3.jpg",
+      "dish": "Omelette",
+      "price": "165",
+      "description": "A fluffy omelette filled with cheese, vegetables, and ham."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-2.jpg",
+      "dish": "Waffles",
+      "price": "85",
+      "description": "Crispy waffles with whipped cream and berries."
+    },
+    {
+      "id": "Breakfast",
+      "image_url": "/img/menu-1.jpg",
+      "dish": "Bagel with Cream Cheese",
+      "price": "28",
+      "description": "A toasted bagel with smooth cream cheese."
+    },
+
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-1.jpg",
+      "dish": "Grilled Chicken Sandwich",
+      "price": "172",
+      "description": "Juicy grilled chicken with fresh vegetables on a soft bun."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-2.jpg",
+      "dish": "Caesar Salad",
+      "price": "100",
+      "description": "Classic Caesar salad with grilled chicken and Parmesan."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-3.jpg",
+      "dish": "Margherita Pizza",
+      "price": "130",
+      "description": "A light pizza with fresh tomatoes, mozzarella, and basil."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-4.jpg",
+      "dish": "Spaghetti Bolognese",
+      "price": "93",
+      "description": "Spaghetti with rich, homemade Bolognese sauce."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-5.jpg",
+      "dish": "Grilled Fish Tacos",
+      "price": "54",
+      "description": "Fresh fish grilled to perfection in soft tortillas."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-6.jpg",
+      "dish": "Cheeseburger",
+      "price": "67",
+      "description": "A juicy cheeseburger with lettuce, tomato, and onion."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-7.jpg",
+      "dish": "Club Sandwich",
+      "price": "38",
+      "description": "A triple-layered sandwich with turkey, bacon, and avocado."
+    },
+    {
+      "id": "Lunch",
+      "image_url": "/img/menu-8.jpg",
+      "dish": "Quinoa Salad",
+      "price": "58",
+      "description": "A light and healthy quinoa salad with mixed greens."
+    },
+
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-8.jpg",
+      "dish": "Steak with Garlic Butter",
+      "price": "199",
+      "description": "Tender steak cooked to perfection with garlic butter."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-7.jpg",
+      "dish": "Lamb Chops",
+      "price": "178",
+      "description": "Succulent lamb chops with rosemary and garlic."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-6.jpg",
+      "dish": "Seafood Paella",
+      "price": "172",
+      "description": "A flavorful rice dish with fresh seafood and saffron."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-5.jpg",
+      "dish": "Roast Chicken",
+      "price": "145",
+      "description": "Juicy roast chicken with herbs and vegetables."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-4.jpg",
+      "dish": "Vegetable Stir Fry",
+      "price": "115",
+      "description": "A colorful mix of vegetables stir-fried with soy sauce."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-3.jpg",
+      "dish": "Shrimp Alfredo Pasta",
+      "price": "156",
+      "description": "Creamy Alfredo sauce with perfectly cooked shrimp."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-2.jpg",
+      "dish": "Beef Stroganoff",
+      "price": "178",
+      "description": "Tender beef in a creamy mushroom sauce served over noodles."
+    },
+    {
+      "id": "Dinner",
+      "image_url": "/img/menu-1.jpg",
+      "dish": "Grilled Salmon",
+      "price": "118",
+      "description": "Fresh grilled salmon with a side of asparagus."
+    }
+  ]
+}
